@@ -3,7 +3,7 @@
 @font-face {
     font-family: 'Lora';
     font-style: normal;
-    font-weight: 450;
+    font-weight: 400;
     src: local('Lora'), local('Lora-Regular'), url(https://fonts.gstatic.com/s/lora/v9/4A-myfZX6oDr9CtSTkTGig.ttf) format('truetype');
 }
 body {
